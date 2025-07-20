@@ -1,5 +1,13 @@
-## Hi there 👋
-I am learning
+<h1>Hi there 👋<h1\>
+  
+<h6>I am a professional Security Engineer and student.</h6> 
+
+- 🔭 I’m currently studying a BSc Cyber Security
+- 🌱 I’m currently learning with GitHub Education
+- ⚡ Fun fact: Approximately only 55% of people feel goosebumps when listening to music
+- 😄 Pronouns: She/Her
+
+  
 <!--
 **JAA09313/JAA09313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
